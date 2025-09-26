@@ -4,8 +4,7 @@
 여행처럼 즐기는 로컬 소비 플랫폼
 <br>
 
-서비스 주소: http://gabom.site
- (예시 주소, 실제 배포 주소로 교체)
+서비스 주소: https://gabom.netlify.app/
 
 <br> <br>
 📖 프로젝트 소개
@@ -61,15 +60,14 @@ OpenAI API (GPT 활용)
 
 Frontend
 
-React, Recharts, Tailwind CSS
+React
 
-Kakao SDK (지도/로그인)
+Kakao SDK (지도)
 
 Infra
 
-AWS (EC2, S3, RDS)
+AWS (EC2, S3)
 
-Docker
 
 <br> <br>
 🖼️ 서비스 화면 (예시)
